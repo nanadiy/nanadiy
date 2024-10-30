@@ -1,5 +1,5 @@
 # 💫 About Me:
-local host turing<br>
+As a senior developer and proud member of the Turing research group, I specialize in cutting-edge technologies like Next.js, JavaScript, Node.js, Python, C#, and C++. My passion is building innovative and scalable web solutions. With a focus on efficient code and modern architectures, I have successfully delivered projects across a wide spectrum of industries. Combining technical excellence with a deep understanding of client needs, I constantly strive to push the boundaries of innovation.
 
 
 ## 🌐 Socials:
